@@ -104,7 +104,7 @@ export default function AthletePage() {
   return (
     <main className="p-6 max-w-3xl mx-auto text-gray-900 dark:text-white">
       <div className="flex justify-between items-center mb-6">
-        <h1 className="text-2xl font-bold text-teal-600">選手用ページ</h1>
+        <h1 className="text-2xl font-bold text-teal-600">疲労度管理</h1>
         <button onClick={handleLogout} className="text-sm text-teal-500 underline">
           ログアウト
         </button>
